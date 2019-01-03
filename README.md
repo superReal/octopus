@@ -33,6 +33,7 @@ Option | Shortcut | Description | Default
 ------ | -------- | ----------- | -------
 `--ignore-query` | `-q` | Ignore a query string | `false`
 `--ignore-external` | `-e` | Ignore all external links | `false`
+`--slack-webhook` | `-s` | Slack incoming webhook url | `none`
 `--timeout` | `-t` | Time to wait for response | `5000`
 `--help` | `-h` | Outputs help text |  
 

@@ -4,6 +4,7 @@
   "options": [
     "-q, --ignore-query    Ignore a custom search query (Default: false)",
     "-e, --ignore-external Ignore external links (Default: false)",
+    "-s, --slack-webhook   Slack incoming webhook url (Default: none)",
     "-t, --timeout         Time to wait for the server response (Default: 5000)",
     "-h, --help            Show this help"
   ]
