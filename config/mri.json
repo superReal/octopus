@@ -1,0 +1,22 @@
+{
+  "default": {
+    "help": false,
+    "timeout": 5000,
+    "ignore-query": [],
+    "ignore-external": false
+  },
+  "string": [
+    "timeout",
+    "ignore-query"
+  ],
+  "boolean": [
+    "help",
+    "ignore-external"
+  ],
+  "alias": {
+    "h": "help",
+    "t": "timeout",
+    "q": "ignore-query",
+    "e": "ignore-external"
+  }
+}
