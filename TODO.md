@@ -1,2 +1,3 @@
 - [ ] Ignore rel="nofollow" links
 - [ ] Respect project config file
+- [ ] Images check 
