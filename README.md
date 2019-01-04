@@ -42,7 +42,7 @@ Option | Shortcut | Description | Default
 
 ```bash
 octopus www.superreal.de
-octopus www.awg-mode --ignore-external
+octopus www.awg-mode.de --ignore-external
 octopus www.hardeck.de --ignore-query=isEnergyEfficiencyChartOpen --ignore-query=followSearch
 ```
 
