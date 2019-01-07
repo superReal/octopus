@@ -1,6 +1,13 @@
 # octopus / CHANGELOG
 
 
+### 1.2.0 (2019-01-07)
+
+* New: Silent option
+* Remove: CLI shortcuts
+* Replace: `\r\n` by EOL constant
+
+
 ### 1.1.0 (2019-01-03)
 
 * New: Slack notifications via incoming webhook
