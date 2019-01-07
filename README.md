@@ -29,13 +29,14 @@ octopus <domain> [options]
 
 ### Options
 
-Option | Shortcut | Description | Default
------- | -------- | ----------- | -------
-`--ignore-query` | `-q` | Ignore a query string | `false`
-`--ignore-external` | `-e` | Ignore all external links | `false`
-`--slack-webhook` | `-s` | Slack incoming webhook url | `none`
-`--timeout` | `-t` | Time to wait for response | `5000`
-`--help` | `-h` | Outputs help text |  
+Option | Description | Default
+------ | ----------- | -------
+`--ignore-query` | Ignore a query string | `false`
+`--ignore-external` | Ignore all external links | `false`
+`--slack-webhook` | Slack incoming webhook url | `none`
+`--timeout` | Time to wait for response | `5000`
+`--silent` | Run without printing progress line | `false`
+`--help` | Output help text |  
 
 
 ### Examples
@@ -44,6 +45,7 @@ Option | Shortcut | Description | Default
 octopus www.superreal.de
 octopus www.awg-mode.de --ignore-external
 octopus www.hardeck.de --ignore-query=isEnergyEfficiencyChartOpen --ignore-query=followSearch
+octopus www.golfino.com --silent --slack-webhook=https://hooks.slack.com/services/XXX/XXX/XXX
 ```
 
 

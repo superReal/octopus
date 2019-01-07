@@ -1,6 +1,7 @@
 {
   "default": {
     "help": false,
+    "silent": false,
     "timeout": 5000,
     "ignore-query": [],
     "ignore-external": false,
@@ -13,12 +14,10 @@
   ],
   "boolean": [
     "help",
+    "silent",
     "ignore-external"
   ],
   "alias": {
-    "h": "help",
-    "t": "timeout",
-    "q": "ignore-query",
-    "e": "ignore-external"
+    "h": "help"
   }
 }
