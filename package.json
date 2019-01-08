@@ -1,6 +1,6 @@
 {
   "name": "@superreal/octopus",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "main": "index.js",
   "license": "MIT",
   "description": "Recursive and multi-threaded broken link checker",
@@ -17,6 +17,7 @@
     "async": "^2.6.1",
     "cheerio": "^1.0.0-rc.2",
     "draftlog": "^1.0.12",
+    "eslint-plugin-security": "^1.4.0",
     "got": "^9.5.0",
     "justify": "^1.0.0",
     "lodash.differenceby": "^4.8.0",

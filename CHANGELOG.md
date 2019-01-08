@@ -1,6 +1,11 @@
 # octopus / CHANGELOG
 
 
+### 1.2.1 (2019-01-08)
+
+* New: Eslint security plugin
+
+
 ### 1.2.0 (2019-01-07)
 
 * New: Silent option
