@@ -1,6 +1,14 @@
 # octopus / CHANGELOG
 
 
+### 1.3.0 (2019-01-09)
+
+* New: Mocha tests
+* New: Ignore `rel=nofollow` links
+* New: Status code in Slack notifications
+* Replace: CLI colors by constants
+
+
 ### 1.2.1 (2019-01-08)
 
 * New: Eslint security plugin
