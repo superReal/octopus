@@ -33,6 +33,7 @@ Option | Description | Default
 ------ | ----------- | -------
 `--ignore-query` | Ignore a query string | `false`
 `--ignore-external` | Ignore all external links | `false`
+`--ignore-nofollow` | Ignore `rel=nofollow` links | `false`
 `--slack-webhook` | Slack incoming webhook url | `none`
 `--timeout` | Time to wait for response | `5000`
 `--silent` | Run without printing progress line | `false`

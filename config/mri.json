@@ -5,6 +5,7 @@
     "timeout": 5000,
     "ignore-query": [],
     "ignore-external": false,
+    "ignore-nofollow": false,
     "slack-webhook": ""
   },
   "string": [
@@ -15,7 +16,8 @@
   "boolean": [
     "help",
     "silent",
-    "ignore-external"
+    "ignore-external",
+    "ignore-nofollow"
   ],
   "alias": {
     "h": "help"
