@@ -7,6 +7,10 @@
 </p>
 
 
+## DEPRECATED
+This package has been moved to [@deptagency/octopus](https://github.com/deptagency/octopus)
+
+
 ### Install
 
 ```bash
